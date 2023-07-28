@@ -22,10 +22,10 @@ Please see my <a href="https://github.com/DinhCongHoang/Sales_Analysis_with_Powe
 If you like to see DAX and data model that I created, please <a href="https://github.com/DinhCongHoang/Sales_Analysis_with_Power_BI/blob/main/K15%20Ho%C3%A0ng%20C%C3%B4ng%20%C4%90%E1%BB%8Bnh.pbix">click here</a> for raw BI file.
 
 # What I gain from this project
-Power BI:
-- Connect Power BI with Bigquery database
-- Data preprocessing using Power Query
-- Build data model for building dashboard
-- Using various elements in building visuals (DAX, drilling, binning,...)
-Analytical mindset:
-- Applying process of choosing appropriate metrics for presentation
+- Power BI:
+  - Connect Power BI with Bigquery database
+  - Data preprocessing using Power Query
+  - Build data model for building dashboard
+  - Using various elements in building visuals (DAX, drilling, binning,...)
+- Analytical mindset:
+  - Applying process of choosing appropriate metrics for presentation
