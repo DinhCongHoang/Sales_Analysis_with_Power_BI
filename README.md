@@ -18,7 +18,7 @@ The sales team needs to be able to extract valuable information from raw data av
 
 # My work
 For this project, I made a BI dashboard that describes aspects relevant to the above requirements and also presented my insights and recommendation.
-Please see my <a href="">dashboard</a> and my <a href="">presentation</a>.
+Please see my <a href="">dashboard</a> and my <a href="https://github.com/DinhCongHoang/Sales_Analysis_with_Power_BI/blob/main/K15%20Ho%C3%A0ng%20C%C3%B4ng%20%C4%90%E1%BB%8Bnh%20_%20Presentation.pdf">presentation</a>.
 
 # What I gain from this project
 Power BI:
